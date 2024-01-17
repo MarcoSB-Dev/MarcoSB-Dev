@@ -124,14 +124,14 @@ Software Engineer based in San Francisco, CA. I have 2 YOE @ Amazon working on b
       </div>
   </div>
 
-
+<!--
  ## Github Stats  
 
 ###
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HowdyPardner&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoSB-Dev" align="center" width="40%"/>
 </div> 
-
+-->
 
 
 
