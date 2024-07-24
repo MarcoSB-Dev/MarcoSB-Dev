@@ -1,7 +1,7 @@
 ![](https://imgur.com/Am93ogl.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=2800&pause=1000&color=022462&center=true&vCenter=true&random=false&width=1012&height=60&lines=Howdy+%F0%9F%91%8B%2C+My+name+is+Marco;I'm+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+also+Front+End+Engineer+%F0%9F%8C%90)](https://git.io/typing-svg)
 
-Software Engineer based in San Francisco, CA. I have 2 YOE @ Amazon working on both front end and back end development. I'm currently focused on building on my front end skills. 
+Software Engineer based in San Francisco, CA. I have 2 YOE @ Amazon working on both front end and back end development. Incoming Grad Student at CMU SCS. 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
